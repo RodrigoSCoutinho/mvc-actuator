@@ -30,3 +30,5 @@ git clone https://github.com/RodrigoSCoutinho/mvc-actuator.git
 A API poderá ser acessada em [localhost:8081](http://localhost:8081).
 
 Health check do actuator [localhost:8081/actuator](http://localhost:8081/actuator).
+
+Check the metrics [localhost:8081/actuator/metrics](http://localhost:8081/actuator/metrics).

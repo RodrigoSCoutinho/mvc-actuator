@@ -4,3 +4,8 @@ resilience4j.circuitbreaker:
       minimumNumberOfCalls: 4
       slidingWindowSize: 8
       
+management: 
+   endpoints:
+     web:
+       exposure:
+           include: 'health, metrics'
