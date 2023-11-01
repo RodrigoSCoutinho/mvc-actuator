@@ -7,11 +7,12 @@ API desenvolvida em Spring Boot, apresenta a implementação de um dashboard de 
 
 ## Tecnologias
 
-- [  ] Spring Web 
-- [  ] Spring Dev Tools
-- [  ] Spring Boot Actuator
-- [  ] Grafana
-- [  ] Prometheus
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Spring Actuator](https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html#actuator)
+- [Prometheus](https://prometheus.io/docs/introduction/overview/)
+- [Grafana](https://grafana.com/docs/?pg=oss-graf&plcmt=quick-links)
+- [Docker](https://www.docker.com/)
+
 
 
 ## Como Executar
