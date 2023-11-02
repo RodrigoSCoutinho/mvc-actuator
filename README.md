@@ -42,5 +42,10 @@ Check the metrics [localhost:8081/actuator/metrics](http://localhost:8081/actuat
 
 Check the Prometheus [localhost:9090](http://localhost:9090).
 
+Check the Grafana [localhost:3000](http://localhost:3000).
+```
+admin | admin
+```
+
 
 
